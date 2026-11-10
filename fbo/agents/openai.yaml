@@ -1,0 +1,4 @@
+interface:
+  display_name: "fbo"
+  short_description: "Создание и проверка FBO-поставок Ozon"
+  default_prompt: "Используй $fbo для создания и проверки FBO-поставок Ozon по моему плану."
